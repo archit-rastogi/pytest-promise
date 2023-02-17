@@ -1,0 +1,4 @@
+* <2023-02-18 Sat 00:36> POC
+** TODO Figure out a way to defer execution of fixtures.
+** TODO Define a way to create a fixture that is a promise.
+- A promise returns a future, which when completes yields one or more resources.
