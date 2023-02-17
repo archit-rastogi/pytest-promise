@@ -1,0 +1,10 @@
+site_name: pytest-promise
+site_description: Full-fill resources in runtime via fixtures
+site_author: Archit Rastogi
+
+theme: readthedocs
+
+repo_url: https://github.com/archit-rastogi/pytest-promise
+
+pages:
+- Home: index.md
